@@ -1,6 +1,11 @@
 package stepik
 import java.util.*
-// https://stepik.org/course/2852/syllabus
+/*
+    Introduction course to Kotlin
+    This files includes only answers for the course tasks
+    Check course here: https://stepik.org/course/2852/syllabus
+ */
+
 // 1 Introduction
 // 1.1 Hello World
 fun start(): String = "OK"
